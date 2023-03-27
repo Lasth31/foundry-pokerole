@@ -1,0 +1,3071 @@
+{
+	"label": "Pokémon (Core 2.0)",
+	"entries": {
+		"Abomasnow": {
+			"name": "Blizzaroi"
+		},
+		"Abomasnow (Mega Form)": {
+			"name": "Méga-Blizzaroi"
+		},
+		"Abra": {
+			"name": "Abra"
+		},
+		"Absol": {
+			"name": "Absol"
+		},
+		"Absol (Mega Form)": {
+			"name": "Méga-Absol"
+		},
+		"Accelgor": {
+			"name": "Limaspeed"
+		},
+		"Aegislash": {
+			"name": "Exagide (Forme Parade)"
+		},
+		"Aegislash (Blade Form)": {
+			"name": "Exagide (Forme Assaut)"
+		},
+		"Aerodactyl": {
+			"name": "Ptéra"
+		},
+		"Aerodactyl (Mega Form)": {
+			"name": "Méga-Ptéra"
+		},
+		"Aggron": {
+			"name": "Galeking"
+		},
+		"Aggron (Mega Form)": {
+			"name": "Méga-Galeking"
+		},
+		"Aipom": {
+			"name": "Capumain"
+		},
+		"Alakazam": {
+			"name": "Alakazam"
+		},
+		"Alakazam (Mega Form)": {
+			"name": "Méga-Alakazam"
+		},
+		"Alcremie": {
+			"name": "Charmilly"
+		},
+		"Alomomola": {
+			"name": "Mamanbo"
+		},
+		"Altaria": {
+			"name": "Altaria"
+		},
+		"Altaria (Mega Form)": {
+			"name": "Méga-Altaria"
+		},
+		"Amaura": {
+			"name": "Amagara"
+		},
+		"Ambipom": {
+			"name": "Capidextre"
+		},
+		"Amoonguss": {
+			"name": "Gaulet"
+		},
+		"Ampharos": {
+			"name": "Pharamp"
+		},
+		"Ampharos (Mega Form)": {
+			"name": "Méga-Pharamp"
+		},
+		"Anorith": {
+			"name": "Anorith"
+		},
+		"Appletun": {
+			"name": "Dratatin"
+		},
+		"Applin": {
+			"name": "Verpom"
+		},
+		"Araquanid": {
+			"name": "Tarenbulle"
+		},
+		"Arbok": {
+			"name": "Arbok"
+		},
+		"Arcanine": {
+			"name": "Arcanin"
+		},
+		"Arcanine (Hisuian Form)": {
+			"name": "Arcanin de Hisui"
+		},
+		"Arceus": {
+			"name": "Arceus"
+		},
+		"Archen": {
+			"name": "Arkéapti"
+		},
+		"Archeops": {
+			"name": "Aéroptéryx"
+		},
+		"Arctovish": {
+			"name": "Hydragla"
+		},
+		"Arctozolt": {
+			"name": "Galvagla"
+		},
+		"Ariados": {
+			"name": "Migalos"
+		},
+		"Armaldo": {
+			"name": "Armaldo"
+		},
+		"Aromatisse": {
+			"name": "Cocotine"
+		},
+		"Aron": {
+			"name": "Galekid"
+		},
+		"Arrokuda": {
+			"name": "Embrochet"
+		},
+		"Articuno": {
+			"name": "Artikodin"
+		},
+		"Articuno (Galarian Form)": {
+			"name": "Artikodin de Galar"
+		},
+		"Audino": {
+			"name": "Nanméouïe"
+		},
+		"Audino (Mega Form)": {
+			"name": "Méga-Nanméouïe"
+		},
+		"Aurorus": {
+			"name": "Dragmara"
+		},
+		"Avalugg": {
+			"name": "Séracrawl"
+		},
+		"Axew": {
+			"name": "Coupenotte"
+		},
+		"Azelf": {
+			"name": "Créfadet"
+		},
+		"Azumarill": {
+			"name": "Azumarill"
+		},
+		"Azurill": {
+			"name": "Azurill"
+		},
+		"Bagon": {
+			"name": "Draby"
+		},
+		"Baltoy": {
+			"name": "Balbuto"
+		},
+		"Banette": {
+			"name": "Branette"
+		},
+		"Banette (Mega Form)": {
+			"name": "Méga-Branette"
+		},
+		"Barbaracle": {
+			"name": "Golgopathe"
+		},
+		"Barboach": {
+			"name": "Barloche"
+		},
+		"Barraskewda": {
+			"name": "Hastacuda"
+		},
+		"Basculin": {
+			"name": "Bargantua"
+		},
+		"Bastiodon": {
+			"name": "Bastiodon"
+		},
+		"Bayleef": {
+			"name": "Macronium"
+		},
+		"Beartic": {
+			"name": "Polagriffe"
+		},
+		"Beautifly": {
+			"name": "Charmillon"
+		},
+		"Beedrill": {
+			"name": "Dardargnan"
+		},
+		"Beedrill (Mega Form)": {
+			"name": "Méga-Dardargnan"
+		},
+		"Beheeyem": {
+			"name": "Neitram"
+		},
+		"Beldum": {
+			"name": "Terhal"
+		},
+		"Bellossom": {
+			"name": "Joliflor"
+		},
+		"Bellsprout": {
+			"name": "Chétiflor"
+		},
+		"Bergmite": {
+			"name": "Grelaçon"
+		},
+		"Bewear": {
+			"name": "Chelours"
+		},
+		"Bibarel": {
+			"name": "Castormo"
+		},
+		"Bidoof": {
+			"name": "Keunotor"
+		},
+		"Binacle": {
+			"name": "Opermine"
+		},
+		"Bisharp": {
+			"name": "Scalproie"
+		},
+		"Blacephalon": {
+			"name": "Pierroteknik"
+		},
+		"Blastoise": {
+			"name": "Tortank"
+		},
+		"Blastoise (Mega Form)": {
+			"name": "Méga-Tortank"
+		},
+		"Blaziken": {
+			"name": "Braségali"
+		},
+		"Blaziken (Mega Form)": {
+			"name": "Méga-Braségali"
+		},
+		"Blipbug": {
+			"name": "Larvadar"
+		},
+		"Blissey": {
+			"name": "Leuphorie"
+		},
+		"Blitzle": {
+			"name": "Zébibron"
+		},
+		"Boldore": {
+			"name": "Géolithe"
+		},
+		"Boltund": {
+			"name": "Fulgudog"
+		},
+		"Bonsly": {
+			"name": "Manzaï"
+		},
+		"Bouffalant": {
+			"name": "Frison"
+		},
+		"Bounsweet": {
+			"name": "Croquine"
+		},
+		"Braixen": {
+			"name": "Roussil"
+		},
+		"Braviary": {
+			"name": "Gueriaigle"
+		},
+		"Breloom": {
+			"name": "Chapignon"
+		},
+		"Brionne": {
+			"name": "Otarlette"
+		},
+		"Bronzong": {
+			"name": "Archéodong"
+		},
+		"Bronzor": {
+			"name": "Archéomire"
+		},
+		"Bruxish": {
+			"name": "Denticrisse"
+		},
+		"Budew": {
+			"name": "Rozbouton"
+		},
+		"Buizel": {
+			"name": "Mustébouée"
+		},
+		"Bulbasaur": {
+			"name": "Bulbizarre"
+		},
+		"Buneary": {
+			"name": "Laporeille"
+		},
+		"Bunnelby": {
+			"name": "Sapereau"
+		},
+		"Burmy": {
+			"name": "Cheniti"
+		},
+		"Butterfree": {
+			"name": "Papilusion"
+		},
+		"Buzzwole": {
+			"name": "Mouscoto"
+		},
+		"Cacnea": {
+			"name": "Cacnea"
+		},
+		"Cacturne": {
+			"name": "Cacturne"
+		},
+		"Camerupt": {
+			"name": "Camérupt"
+		},
+		"Camerupt (Mega Form)": {
+			"name": "Méga-Camérupt"
+		},
+		"Carbink": {
+			"name": "Strassie"
+		},
+		"Carkol": {
+			"name": "Wagomine"
+		},
+		"Carnivine": {
+			"name": "Vortente"
+		},
+		"Carracosta": {
+			"name": "Mégapagos"
+		},
+		"Carvanha": {
+			"name": "Carvanha"
+		},
+		"Cascoon": {
+			"name": "Blindalys"
+		},
+		"Castform": {
+			"name": "Morphéo"
+		},
+		"Caterpie": {
+			"name": "Chenipan"
+		},
+		"Celebi": {
+			"name": "Celebi"
+		},
+		"Celesteela": {
+			"name": "Bamboiselle"
+		},
+		"Centiskorch": {
+			"name": "Scolocendre"
+		},
+		"Chandelure": {
+			"name": "Lugulabre"
+		},
+		"Chansey": {
+			"name": "Leveinard"
+		},
+		"Charizard": {
+			"name": "Dracaufeu"
+		},
+		"Charizard (Mega X Form)": {
+			"name": "Méga-Dracaufeu X"
+		},
+		"Charizard (Mega Y Form)": {
+			"name": "Méga-Dracaufeu Y"
+		},
+		"Charjabug": {
+			"name": "Chrysapile"
+		},
+		"Charmander": {
+			"name": "Salamèche"
+		},
+		"Charmeleon": {
+			"name": "Reptincel"
+		},
+		"Chatot": {
+			"name": "Pijako"
+		},
+		"Cherrim": {
+			"name": "Ceriflor"
+		},
+		"Cherubi": {
+			"name": "Ceribou"
+		},
+		"Chesnaught": {
+			"name": "Blindépique"
+		},
+		"Chespin": {
+			"name": "Marisson"
+		},
+		"Chewtle": {
+			"name": "Khélocrok"
+		},
+		"Chikorita": {
+			"name": "Germignon"
+		},
+		"Chimchar": {
+			"name": "Ouisticram"
+		},
+		"Chimecho": {
+			"name": "Éoko"
+		},
+		"Chinchou": {
+			"name": "Loupio"
+		},
+		"Chingling": {
+			"name": "Korillon"
+		},
+		"Cinccino": {
+			"name": "Pashmilla"
+		},
+		"Cinderace": {
+			"name": "Pyrobut"
+		},
+		"Clamperl": {
+			"name": "Coquiperl"
+		},
+		"Clauncher": {
+			"name": "Flingouste"
+		},
+		"Clawitzer": {
+			"name": "Gamblast"
+		},
+		"Claydol": {
+			"name": "Kaorine"
+		},
+		"Clefable": {
+			"name": "Mélodelfe"
+		},
+		"Clefairy": {
+			"name": "Mélofée"
+		},
+		"Cleffa": {
+			"name": "Mélo"
+		},
+		"Clobbopus": {
+			"name": "Poulpaf"
+		},
+		"Cloyster": {
+			"name": "Crustabri"
+		},
+		"Coalossal": {
+			"name": "Monthracite"
+		},
+		"Cobalion": {
+			"name": "Cobaltium"
+		},
+		"Cofagrigus": {
+			"name": "Tutankafer"
+		},
+		"Combee": {
+			"name": "Apitrini"
+		},
+		"Combusken": {
+			"name": "Galifeu"
+		},
+		"Comfey": {
+			"name": "Guérilande"
+		},
+		"Conkeldurr": {
+			"name": "Bétochef"
+		},
+		"Copperajah": {
+			"name": "Pachyradjah"
+		},
+		"Corphish": {
+			"name": "Écrapince"
+		},
+		"Corsola": {
+			"name": "Corayon"
+		},
+		"Corsola (Galarian Form)": {
+			"name": "Corayon de Galar"
+		},
+		"Corviknight": {
+			"name": "Corvaillus"
+		},
+		"Corvisquire": {
+			"name": "Bleuseille"
+		},
+		"Cosmoem": {
+			"name": "Cosmovum"
+		},
+		"Cosmog": {
+			"name": "Cosmog"
+		},
+		"Cottonee": {
+			"name": "Doudouvet"
+		},
+		"Crabominable": {
+			"name": "Crabominable"
+		},
+		"Crabrawler": {
+			"name": "Crabagarre"
+		},
+		"Cradily": {
+			"name": "Vacilys"
+		},
+		"Cramorant": {
+			"name": "Nigosier"
+		},
+		"Cranidos": {
+			"name": "Kranidos"
+		},
+		"Crawdaunt": {
+			"name": "Colhomard"
+		},
+		"Cresselia": {
+			"name": "Cresselia"
+		},
+		"Croagunk": {
+			"name": "Cradopaud"
+		},
+		"Crobat": {
+			"name": "Nostenfer"
+		},
+		"Croconaw": {
+			"name": "Crocrodil"
+		},
+		"Crustle": {
+			"name": "Crabaraque"
+		},
+		"Cryogonal": {
+			"name": "Hexagel"
+		},
+		"Cubchoo": {
+			"name": "Polarhume"
+		},
+		"Cubone": {
+			"name": "Osselait"
+		},
+		"Cufant": {
+			"name": "Charibari"
+		},
+		"Cursola": {
+			"name": "Corayôme"
+		},
+		"Cutiefly": {
+			"name": "Bombydou"
+		},
+		"Cyndaquil": {
+			"name": "Héricendre"
+		},
+		"Darkrai": {
+			"name": "Darkrai"
+		},
+		"Darmanitan": {
+			"name": "Darmanitan"
+		},
+		"Darmanitan (Galarian Form)": {
+			"name": "Darmanitan de Galar"
+		},
+		"Darmanitan (Galarian Zen Form)": {
+			"name": "Darmanitan (Galarian Zen Form)"
+		},
+		"Darmanitan (Zen Form)": {
+			"name": "Darmanitan (Zen Form)"
+		},
+		"Dartrix": {
+			"name": "Dartrix"
+		},
+		"Darumaka": {
+			"name": "Darumaka"
+		},
+		"Darumaka (Galarian Form)": {
+			"name": "Darumaka de Galar"
+		},
+		"Decidueye": {
+			"name": "Decidueye"
+		},
+		"Dedenne": {
+			"name": "Dedenne"
+		},
+		"Deerling": {
+			"name": "Deerling"
+		},
+		"Deino": {
+			"name": "Deino"
+		},
+		"Delcatty": {
+			"name": "Delcatty"
+		},
+		"Delibird": {
+			"name": "Delibird"
+		},
+		"Delphox": {
+			"name": "Delphox"
+		},
+		"Deoxys": {
+			"name": "Deoxys"
+		},
+		"Deoxys (Attack Form)": {
+			"name": "Deoxys (Attack Form)"
+		},
+		"Deoxys (Defense Form)": {
+			"name": "Deoxys (Defense Form)"
+		},
+		"Deoxys (Speed Form)": {
+			"name": "Deoxys (Speed Form)"
+		},
+		"Dewgong": {
+			"name": "Dewgong"
+		},
+		"Dewott": {
+			"name": "Dewott"
+		},
+		"Dewpider": {
+			"name": "Dewpider"
+		},
+		"Dhelmise": {
+			"name": "Dhelmise"
+		},
+		"Dialga": {
+			"name": "Dialga"
+		},
+		"Diancie": {
+			"name": "Diancie"
+		},
+		"Diancie (Mega Form)": {
+			"name": "Diancie (Mega Form)"
+		},
+		"Diggersby": {
+			"name": "Diggersby"
+		},
+		"Diglett": {
+			"name": "Diglett"
+		},
+		"Diglett (Alolan Form)": {
+			"name": "Diglett (Alolan Form)"
+		},
+		"Ditto": {
+			"name": "Ditto"
+		},
+		"Dodrio": {
+			"name": "Dodrio"
+		},
+		"Doduo": {
+			"name": "Doduo"
+		},
+		"Donphan": {
+			"name": "Donphan"
+		},
+		"Dottler": {
+			"name": "Dottler"
+		},
+		"Doublade": {
+			"name": "Doublade"
+		},
+		"Dracovish": {
+			"name": "Dracovish"
+		},
+		"Dracozolt": {
+			"name": "Dracozolt"
+		},
+		"Dragalge": {
+			"name": "Dragalge"
+		},
+		"Dragapult": {
+			"name": "Dragapult"
+		},
+		"Dragonair": {
+			"name": "Dragonair"
+		},
+		"Dragonite": {
+			"name": "Dragonite"
+		},
+		"Drakloak": {
+			"name": "Drakloak"
+		},
+		"Drampa": {
+			"name": "Drampa"
+		},
+		"Drapion": {
+			"name": "Drapion"
+		},
+		"Dratini": {
+			"name": "Dratini"
+		},
+		"Drednaw": {
+			"name": "Drednaw"
+		},
+		"Dreepy": {
+			"name": "Dreepy"
+		},
+		"Drifblim": {
+			"name": "Drifblim"
+		},
+		"Drifloon": {
+			"name": "Drifloon"
+		},
+		"Drilbur": {
+			"name": "Drilbur"
+		},
+		"Drizzile": {
+			"name": "Drizzile"
+		},
+		"Drowzee": {
+			"name": "Drowzee"
+		},
+		"Druddigon": {
+			"name": "Druddigon"
+		},
+		"Dubwool": {
+			"name": "Dubwool"
+		},
+		"Ducklett": {
+			"name": "Ducklett"
+		},
+		"Dugtrio": {
+			"name": "Dugtrio"
+		},
+		"Dugtrio (Alolan Form)": {
+			"name": "Dugtrio (Alolan Form)"
+		},
+		"Dunsparce": {
+			"name": "Dunsparce"
+		},
+		"Duosion": {
+			"name": "Duosion"
+		},
+		"Duraludon": {
+			"name": "Duraludon"
+		},
+		"Durant": {
+			"name": "Durant"
+		},
+		"Dusclops": {
+			"name": "Dusclops"
+		},
+		"Dusknoir": {
+			"name": "Dusknoir"
+		},
+		"Duskull": {
+			"name": "Duskull"
+		},
+		"Dustox": {
+			"name": "Dustox"
+		},
+		"Dwebble": {
+			"name": "Dwebble"
+		},
+		"Eelektrik": {
+			"name": "Eelektrik"
+		},
+		"Eelektross": {
+			"name": "Eelektross"
+		},
+		"Eevee": {
+			"name": "Eevee"
+		},
+		"Egg": {
+			"name": "Egg"
+		},
+		"Eiscue": {
+			"name": "Eiscue"
+		},
+		"Eiscue (No Ice Form)": {
+			"name": "Eiscue (No Ice Form)"
+		},
+		"Ekans": {
+			"name": "Ekans"
+		},
+		"Eldegoss": {
+			"name": "Eldegoss"
+		},
+		"Electabuzz": {
+			"name": "Electabuzz"
+		},
+		"Electivire": {
+			"name": "Electivire"
+		},
+		"Electrike": {
+			"name": "Electrike"
+		},
+		"Electrode": {
+			"name": "Electrode"
+		},
+		"Elekid": {
+			"name": "Elekid"
+		},
+		"Elgyem": {
+			"name": "Elgyem"
+		},
+		"Emboar": {
+			"name": "Emboar"
+		},
+		"Emolga": {
+			"name": "Emolga"
+		},
+		"Empoleon": {
+			"name": "Empoleon"
+		},
+		"Entei": {
+			"name": "Entei"
+		},
+		"Escavalier": {
+			"name": "Escavalier"
+		},
+		"Espeon": {
+			"name": "Espeon"
+		},
+		"Espurr": {
+			"name": "Espurr"
+		},
+		"Eternatus": {
+			"name": "Eternatus"
+		},
+		"Excadrill": {
+			"name": "Excadrill"
+		},
+		"Exeggcute": {
+			"name": "Exeggcute"
+		},
+		"Exeggutor": {
+			"name": "Exeggutor"
+		},
+		"Exeggutor (Alolan Form)": {
+			"name": "Exeggutor (Alolan Form)"
+		},
+		"Exploud": {
+			"name": "Exploud"
+		},
+		"Falinks": {
+			"name": "Falinks"
+		},
+		"Farfetch'd": {
+			"name": "Farfetch'd"
+		},
+		"Farfetch'd (Galarian Form)": {
+			"name": "Farfetch'd de Galar"
+		},
+		"Fearow": {
+			"name": "Fearow"
+		},
+		"Feebas": {
+			"name": "Feebas"
+		},
+		"Fennekin": {
+			"name": "Fennekin"
+		},
+		"Feraligatr": {
+			"name": "Feraligatr"
+		},
+		"Ferroseed": {
+			"name": "Ferroseed"
+		},
+		"Ferrothorn": {
+			"name": "Ferrothorn"
+		},
+		"Finneon": {
+			"name": "Finneon"
+		},
+		"Flaaffy": {
+			"name": "Flaaffy"
+		},
+		"Flabebe": {
+			"name": "Flabebe"
+		},
+		"Flapple": {
+			"name": "Flapple"
+		},
+		"Flareon": {
+			"name": "Flareon"
+		},
+		"Fletchinder": {
+			"name": "Fletchinder"
+		},
+		"Fletchling": {
+			"name": "Fletchling"
+		},
+		"Floatzel": {
+			"name": "Floatzel"
+		},
+		"Floette": {
+			"name": "Floette"
+		},
+		"Florges": {
+			"name": "Florges"
+		},
+		"Flygon": {
+			"name": "Flygon"
+		},
+		"Fomantis": {
+			"name": "Fomantis"
+		},
+		"Foongus": {
+			"name": "Foongus"
+		},
+		"Forretress": {
+			"name": "Forretress"
+		},
+		"Fraxure": {
+			"name": "Fraxure"
+		},
+		"Frillish": {
+			"name": "Frillish"
+		},
+		"Froakie": {
+			"name": "Froakie"
+		},
+		"Frogadier": {
+			"name": "Frogadier"
+		},
+		"Froslass": {
+			"name": "Froslass"
+		},
+		"Frosmoth": {
+			"name": "Frosmoth"
+		},
+		"Furfrou": {
+			"name": "Furfrou"
+		},
+		"Furret": {
+			"name": "Furret"
+		},
+		"Gabite": {
+			"name": "Gabite"
+		},
+		"Gallade": {
+			"name": "Gallade"
+		},
+		"Gallade (Mega Form)": {
+			"name": "Gallade (Mega Form)"
+		},
+		"Galvantula": {
+			"name": "Galvantula"
+		},
+		"Garbodor": {
+			"name": "Garbodor"
+		},
+		"Garchomp": {
+			"name": "Garchomp"
+		},
+		"Garchomp (Mega Form)": {
+			"name": "Garchomp (Mega Form)"
+		},
+		"Gardevoir": {
+			"name": "Gardevoir"
+		},
+		"Gardevoir (Mega Form)": {
+			"name": "Gardevoir (Mega Form)"
+		},
+		"Gastly": {
+			"name": "Gastly"
+		},
+		"Gastrodon": {
+			"name": "Gastrodon"
+		},
+		"Genesect": {
+			"name": "Genesect"
+		},
+		"Gengar": {
+			"name": "Gengar"
+		},
+		"Gengar (Mega Form)": {
+			"name": "Gengar (Mega Form)"
+		},
+		"Geodude": {
+			"name": "Geodude"
+		},
+		"Geodude (Alolan Form)": {
+			"name": "Geodude (Alolan Form)"
+		},
+		"Gible": {
+			"name": "Gible"
+		},
+		"Gigalith": {
+			"name": "Gigalith"
+		},
+		"Girafarig": {
+			"name": "Girafarig"
+		},
+		"Giratina": {
+			"name": "Giratina"
+		},
+		"Giratina (Origin Form)": {
+			"name": "Giratina (Origin Form)"
+		},
+		"Glaceon": {
+			"name": "Glaceon"
+		},
+		"Glalie": {
+			"name": "Glalie"
+		},
+		"Glalie (Mega Form)": {
+			"name": "Glalie (Mega Form)"
+		},
+		"Glameow": {
+			"name": "Glameow"
+		},
+		"Gligar": {
+			"name": "Gligar"
+		},
+		"Gliscor": {
+			"name": "Gliscor"
+		},
+		"Gloom": {
+			"name": "Gloom"
+		},
+		"Gogoat": {
+			"name": "Gogoat"
+		},
+		"Golbat": {
+			"name": "Golbat"
+		},
+		"Goldeen": {
+			"name": "Goldeen"
+		},
+		"Golduck": {
+			"name": "Golduck"
+		},
+		"Golem": {
+			"name": "Golem"
+		},
+		"Golem (Alolan Form)": {
+			"name": "Golem (Alolan Form)"
+		},
+		"Golett": {
+			"name": "Golett"
+		},
+		"Golisopod": {
+			"name": "Golisopod"
+		},
+		"Golurk": {
+			"name": "Golurk"
+		},
+		"Goodra": {
+			"name": "Goodra"
+		},
+		"Goomy": {
+			"name": "Goomy"
+		},
+		"Gorebyss": {
+			"name": "Gorebyss"
+		},
+		"Gossifleur": {
+			"name": "Gossifleur"
+		},
+		"Gothita": {
+			"name": "Gothita"
+		},
+		"Gothitelle": {
+			"name": "Gothitelle"
+		},
+		"Gothorita": {
+			"name": "Gothorita"
+		},
+		"Gourgeist": {
+			"name": "Gourgeist"
+		},
+		"Granbull": {
+			"name": "Granbull"
+		},
+		"Grapploct": {
+			"name": "Grapploct"
+		},
+		"Graveler": {
+			"name": "Graveler"
+		},
+		"Graveler (Alolan Form)": {
+			"name": "Graveler (Alolan Form)"
+		},
+		"Greedent": {
+			"name": "Greedent"
+		},
+		"Greninja": {
+			"name": "Greninja"
+		},
+		"Greninja (BBF Form)": {
+			"name": "Greninja (BBF Form)"
+		},
+		"Grimer": {
+			"name": "Grimer"
+		},
+		"Grimer (Alolan Form)": {
+			"name": "Grimer (Alolan Form)"
+		},
+		"Grimmsnarl": {
+			"name": "Grimmsnarl"
+		},
+		"Grookey": {
+			"name": "Grookey"
+		},
+		"Grotle": {
+			"name": "Grotle"
+		},
+		"Groudon": {
+			"name": "Groudon"
+		},
+		"Groudon (Primal Form)": {
+			"name": "Groudon (Primal Form)"
+		},
+		"Grovyle": {
+			"name": "Grovyle"
+		},
+		"Growlithe": {
+			"name": "Caninos"
+		},
+		"Growlithe (Hisuian Form)": {
+			"name": "Caninos de Hisui"
+		},
+		"Grubbin": {
+			"name": "Grubbin"
+		},
+		"Grumpig": {
+			"name": "Grumpig"
+		},
+		"Gulpin": {
+			"name": "Gulpin"
+		},
+		"Gumshoos": {
+			"name": "Gumshoos"
+		},
+		"Gurdurr": {
+			"name": "Gurdurr"
+		},
+		"Guzzlord": {
+			"name": "Guzzlord"
+		},
+		"Gyarados": {
+			"name": "Gyarados"
+		},
+		"Gyarados (Mega Form)": {
+			"name": "Gyarados (Mega Form)"
+		},
+		"Hakamo-o": {
+			"name": "Hakamo-o"
+		},
+		"Happiny": {
+			"name": "Happiny"
+		},
+		"Hariyama": {
+			"name": "Hariyama"
+		},
+		"Hatenna": {
+			"name": "Hatenna"
+		},
+		"Hatterene": {
+			"name": "Hatterene"
+		},
+		"Hattrem": {
+			"name": "Hattrem"
+		},
+		"Haunter": {
+			"name": "Haunter"
+		},
+		"Hawlucha": {
+			"name": "Hawlucha"
+		},
+		"Haxorus": {
+			"name": "Haxorus"
+		},
+		"Heatmor": {
+			"name": "Heatmor"
+		},
+		"Heatran": {
+			"name": "Heatran"
+		},
+		"Heliolisk": {
+			"name": "Heliolisk"
+		},
+		"Helioptile": {
+			"name": "Helioptile"
+		},
+		"Heracross": {
+			"name": "Heracross"
+		},
+		"Heracross (Mega Form)": {
+			"name": "Heracross (Mega Form)"
+		},
+		"Herdier": {
+			"name": "Herdier"
+		},
+		"Hippopotas": {
+			"name": "Hippopotas"
+		},
+		"Hippowdon": {
+			"name": "Hippowdon"
+		},
+		"Hitmonchan": {
+			"name": "Hitmonchan"
+		},
+		"Hitmonlee": {
+			"name": "Hitmonlee"
+		},
+		"Hitmontop": {
+			"name": "Hitmontop"
+		},
+		"Ho-oh": {
+			"name": "Ho-oh"
+		},
+		"Honchkrow": {
+			"name": "Honchkrow"
+		},
+		"Honedge": {
+			"name": "Honedge"
+		},
+		"Hoopa": {
+			"name": "Hoopa"
+		},
+		"Hoopa (Unbound Form)": {
+			"name": "Hoopa (Unbound Form)"
+		},
+		"Hoothoot": {
+			"name": "Hoothoot"
+		},
+		"Hoppip": {
+			"name": "Hoppip"
+		},
+		"Horsea": {
+			"name": "Horsea"
+		},
+		"Houndoom": {
+			"name": "Houndoom"
+		},
+		"Houndoom (Mega Form)": {
+			"name": "Houndoom (Mega Form)"
+		},
+		"Houndour": {
+			"name": "Houndour"
+		},
+		"Huntail": {
+			"name": "Huntail"
+		},
+		"Hydreigon": {
+			"name": "Hydreigon"
+		},
+		"Hypno": {
+			"name": "Hypno"
+		},
+		"Igglybuff": {
+			"name": "Igglybuff"
+		},
+		"Illumise": {
+			"name": "Illumise"
+		},
+		"Impidimp": {
+			"name": "Impidimp"
+		},
+		"Incineroar": {
+			"name": "Incineroar"
+		},
+		"Indeedee": {
+			"name": "Indeedee"
+		},
+		"Infernape": {
+			"name": "Infernape"
+		},
+		"Inkay": {
+			"name": "Inkay"
+		},
+		"Inteleon": {
+			"name": "Inteleon"
+		},
+		"Ivysaur": {
+			"name": "Ivysaur"
+		},
+		"Jangmo-o": {
+			"name": "Jangmo-o"
+		},
+		"Jellicent": {
+			"name": "Jellicent"
+		},
+		"Jigglypuff": {
+			"name": "Jigglypuff"
+		},
+		"Jirachi": {
+			"name": "Jirachi"
+		},
+		"Jolteon": {
+			"name": "Jolteon"
+		},
+		"Joltik": {
+			"name": "Joltik"
+		},
+		"Jumpluff": {
+			"name": "Jumpluff"
+		},
+		"Jynx": {
+			"name": "Jynx"
+		},
+		"Kabuto": {
+			"name": "Kabuto"
+		},
+		"Kabutops": {
+			"name": "Kabutops"
+		},
+		"Kadabra": {
+			"name": "Kadabra"
+		},
+		"Kakuna": {
+			"name": "Kakuna"
+		},
+		"Kangaskhan": {
+			"name": "Kangaskhan"
+		},
+		"Kangaskhan (Mega Form)": {
+			"name": "Kangaskhan (Mega Form)"
+		},
+		"Karrablast": {
+			"name": "Karrablast"
+		},
+		"Kartana": {
+			"name": "Kartana"
+		},
+		"Kecleon": {
+			"name": "Kecleon"
+		},
+		"Keldeo": {
+			"name": "Keldeo"
+		},
+		"Keldeo (Resolute Form)": {
+			"name": "Keldeo (Resolute Form)"
+		},
+		"Kingdra": {
+			"name": "Kingdra"
+		},
+		"Kingler": {
+			"name": "Kingler"
+		},
+		"Kirlia": {
+			"name": "Kirlia"
+		},
+		"Klang": {
+			"name": "Klang"
+		},
+		"Klefki": {
+			"name": "Klefki"
+		},
+		"Klink": {
+			"name": "Klink"
+		},
+		"Klinklang": {
+			"name": "Klinklang"
+		},
+		"Koffing": {
+			"name": "Koffing"
+		},
+		"Komala": {
+			"name": "Komala"
+		},
+		"Kommo-o": {
+			"name": "Kommo-o"
+		},
+		"Krabby": {
+			"name": "Krabby"
+		},
+		"Kricketot": {
+			"name": "Kricketot"
+		},
+		"Kricketune": {
+			"name": "Kricketune"
+		},
+		"Krokorok": {
+			"name": "Krokorok"
+		},
+		"Krookodile": {
+			"name": "Krookodile"
+		},
+		"Kyogre": {
+			"name": "Kyogre"
+		},
+		"Kyogre (Primal Form)": {
+			"name": "Kyogre (Primal Form)"
+		},
+		"Kyurem": {
+			"name": "Kyurem"
+		},
+		"Kyurem (Black Form)": {
+			"name": "Kyurem (Black Form)"
+		},
+		"Kyurem (White Form)": {
+			"name": "Kyurem (White Form)"
+		},
+		"Lairon": {
+			"name": "Lairon"
+		},
+		"Lampent": {
+			"name": "Lampent"
+		},
+		"Landorus": {
+			"name": "Landorus"
+		},
+		"Landorus (Therian Form)": {
+			"name": "Landorus (Therian Form)"
+		},
+		"Lanturn": {
+			"name": "Lanturn"
+		},
+		"Lapras": {
+			"name": "Lapras"
+		},
+		"Larvesta": {
+			"name": "Larvesta"
+		},
+		"Larvitar": {
+			"name": "Larvitar"
+		},
+		"Latias": {
+			"name": "Latias"
+		},
+		"Latias (Mega Form)": {
+			"name": "Latias (Mega Form)"
+		},
+		"Latios": {
+			"name": "Latios"
+		},
+		"Latios (Mega Form)": {
+			"name": "Latios (Mega Form)"
+		},
+		"Leafeon": {
+			"name": "Leafeon"
+		},
+		"Leavanny": {
+			"name": "Leavanny"
+		},
+		"Ledian": {
+			"name": "Ledian"
+		},
+		"Ledyba": {
+			"name": "Ledyba"
+		},
+		"Lickilicky": {
+			"name": "Lickilicky"
+		},
+		"Lickitung": {
+			"name": "Lickitung"
+		},
+		"Liepard": {
+			"name": "Liepard"
+		},
+		"Lileep": {
+			"name": "Lileep"
+		},
+		"Lilligant": {
+			"name": "Lilligant"
+		},
+		"Lillipup": {
+			"name": "Lillipup"
+		},
+		"Linoone": {
+			"name": "Linoone"
+		},
+		"Linoone (Galarian Form)": {
+			"name": "Linoone de Galar"
+		},
+		"Litleo": {
+			"name": "Litleo"
+		},
+		"Litten": {
+			"name": "Litten"
+		},
+		"Litwick": {
+			"name": "Litwick"
+		},
+		"Lombre": {
+			"name": "Lombre"
+		},
+		"Lopunny": {
+			"name": "Lopunny"
+		},
+		"Lopunny (Mega Form)": {
+			"name": "Lopunny (Mega Form)"
+		},
+		"Lotad": {
+			"name": "Lotad"
+		},
+		"Loudred": {
+			"name": "Loudred"
+		},
+		"Lucario": {
+			"name": "Lucario"
+		},
+		"Lucario (Mega Form)": {
+			"name": "Lucario (Mega Form)"
+		},
+		"Ludicolo": {
+			"name": "Ludicolo"
+		},
+		"Lugia": {
+			"name": "Lugia"
+		},
+		"Lumineon": {
+			"name": "Lumineon"
+		},
+		"Lunala": {
+			"name": "Lunala"
+		},
+		"Lunatone": {
+			"name": "Lunatone"
+		},
+		"Lurantis": {
+			"name": "Lurantis"
+		},
+		"Luvdisc": {
+			"name": "Luvdisc"
+		},
+		"Luxio": {
+			"name": "Luxio"
+		},
+		"Luxray": {
+			"name": "Luxray"
+		},
+		"Lycanroc (Dusk Form)": {
+			"name": "Lycanroc (Dusk Form)"
+		},
+		"Lycanroc (Midday Form)": {
+			"name": "Lycanroc (Midday Form)"
+		},
+		"Lycanroc (Midnight Form)": {
+			"name": "Lycanroc (Midnight Form)"
+		},
+		"Machamp": {
+			"name": "Machamp"
+		},
+		"Machoke": {
+			"name": "Machoke"
+		},
+		"Machop": {
+			"name": "Machop"
+		},
+		"Magby": {
+			"name": "Magby"
+		},
+		"Magcargo": {
+			"name": "Magcargo"
+		},
+		"Magearna": {
+			"name": "Magearna"
+		},
+		"Magikarp": {
+			"name": "Magikarp"
+		},
+		"Magmar": {
+			"name": "Magmar"
+		},
+		"Magmortar": {
+			"name": "Magmortar"
+		},
+		"Magnemite": {
+			"name": "Magnemite"
+		},
+		"Magneton": {
+			"name": "Magneton"
+		},
+		"Magnezone": {
+			"name": "Magnezone"
+		},
+		"Makuhita": {
+			"name": "Makuhita"
+		},
+		"Malamar": {
+			"name": "Malamar"
+		},
+		"Mamoswine": {
+			"name": "Mamoswine"
+		},
+		"Manaphy": {
+			"name": "Manaphy"
+		},
+		"Mandibuzz": {
+			"name": "Mandibuzz"
+		},
+		"Manectric": {
+			"name": "Manectric"
+		},
+		"Manectric (Mega Form)": {
+			"name": "Manectric (Mega Form)"
+		},
+		"Mankey": {
+			"name": "Mankey"
+		},
+		"Mantine": {
+			"name": "Mantine"
+		},
+		"Mantyke": {
+			"name": "Mantyke"
+		},
+		"Maractus": {
+			"name": "Maractus"
+		},
+		"Mareanie": {
+			"name": "Mareanie"
+		},
+		"Mareep": {
+			"name": "Mareep"
+		},
+		"Marill": {
+			"name": "Marill"
+		},
+		"Marowak": {
+			"name": "Marowak"
+		},
+		"Marowak (Alolan Form)": {
+			"name": "Marowak (Alolan Form)"
+		},
+		"Marshadow": {
+			"name": "Marshadow"
+		},
+		"Marshtomp": {
+			"name": "Marshtomp"
+		},
+		"Masquerain": {
+			"name": "Masquerain"
+		},
+		"Mawile": {
+			"name": "Mawile"
+		},
+		"Mawile (Mega Form)": {
+			"name": "Mawile (Mega Form)"
+		},
+		"Medicham": {
+			"name": "Medicham"
+		},
+		"Medicham (Mega Form)": {
+			"name": "Medicham (Mega Form)"
+		},
+		"Meditite": {
+			"name": "Meditite"
+		},
+		"Meganium": {
+			"name": "Meganium"
+		},
+		"Melmetal": {
+			"name": "Melmetal"
+		},
+		"Meloetta": {
+			"name": "Meloetta"
+		},
+		"Meloetta (Pirouette Form)": {
+			"name": "Meloetta (Pirouette Form)"
+		},
+		"Meltan": {
+			"name": "Meltan"
+		},
+		"Meowstic": {
+			"name": "Meowstic"
+		},
+		"Meowth": {
+			"name": "Meowth"
+		},
+		"Meowth (Alolan Form)": {
+			"name": "Meowth (Alolan Form)"
+		},
+		"Meowth (Galarian Form)": {
+			"name": "Meowth de Galar"
+		},
+		"Mesprit": {
+			"name": "Mesprit"
+		},
+		"Metagross": {
+			"name": "Metagross"
+		},
+		"Metagross (Mega Form)": {
+			"name": "Metagross (Mega Form)"
+		},
+		"Metang": {
+			"name": "Metang"
+		},
+		"Metapod": {
+			"name": "Metapod"
+		},
+		"Mew": {
+			"name": "Mew"
+		},
+		"Mewtwo": {
+			"name": "Mewtwo"
+		},
+		"Mewtwo (Mega X Form)": {
+			"name": "Mewtwo (Mega X Form)"
+		},
+		"Mewtwo (Mega Y Form)": {
+			"name": "Mewtwo (Mega Y Form)"
+		},
+		"Mienfoo": {
+			"name": "Mienfoo"
+		},
+		"Mienshao": {
+			"name": "Mienshao"
+		},
+		"Mightyena": {
+			"name": "Mightyena"
+		},
+		"Milcery": {
+			"name": "Milcery"
+		},
+		"Milotic": {
+			"name": "Milotic"
+		},
+		"Miltank": {
+			"name": "Miltank"
+		},
+		"Mime Jr": {
+			"name": "Mime Jr"
+		},
+		"Mimikyu": {
+			"name": "Mimikyu"
+		},
+		"Minccino": {
+			"name": "Minccino"
+		},
+		"Minior": {
+			"name": "Minior"
+		},
+		"Minior Core": {
+			"name": "Minior Core"
+		},
+		"Minun": {
+			"name": "Minun"
+		},
+		"Misdreavus": {
+			"name": "Misdreavus"
+		},
+		"Mismagius": {
+			"name": "Mismagius"
+		},
+		"Moltres": {
+			"name": "Moltres"
+		},
+		"Moltres (Galarian Form)": {
+			"name": "Moltres de Galar"
+		},
+		"Monferno": {
+			"name": "Monferno"
+		},
+		"Morelull": {
+			"name": "Morelull"
+		},
+		"Morgrem": {
+			"name": "Morgrem"
+		},
+		"Morpeko": {
+			"name": "Morpeko"
+		},
+		"Mothim": {
+			"name": "Mothim"
+		},
+		"Mr. Mime": {
+			"name": "Mr. Mime"
+		},
+		"Mr. Mime (Galarian Form)": {
+			"name": "Mr. Mime de Galar"
+		},
+		"Mr. Rime": {
+			"name": "Mr. Rime"
+		},
+		"Mudbray": {
+			"name": "Mudbray"
+		},
+		"Mudkip": {
+			"name": "Mudkip"
+		},
+		"Mudsdale": {
+			"name": "Mudsdale"
+		},
+		"Muk": {
+			"name": "Muk"
+		},
+		"Muk (Alolan Form)": {
+			"name": "Muk (Alolan Form)"
+		},
+		"Munchlax": {
+			"name": "Munchlax"
+		},
+		"Munna": {
+			"name": "Munna"
+		},
+		"Murkrow": {
+			"name": "Murkrow"
+		},
+		"Musharna": {
+			"name": "Musharna"
+		},
+		"Naganadel": {
+			"name": "Naganadel"
+		},
+		"Natu": {
+			"name": "Natu"
+		},
+		"Necrozma": {
+			"name": "Necrozma"
+		},
+		"Necrozma (Dawn Wings Form)": {
+			"name": "Necrozma (Dawn Wings Form)"
+		},
+		"Necrozma (Dusk Mane Form)": {
+			"name": "Necrozma (Dusk Mane Form)"
+		},
+		"Necrozma (Ultra Burst Form)": {
+			"name": "Necrozma (Ultra Burst Form)"
+		},
+		"Nickit": {
+			"name": "Nickit"
+		},
+		"Nidoking": {
+			"name": "Nidoking"
+		},
+		"Nidoqueen": {
+			"name": "Nidoqueen"
+		},
+		"Nidoran F": {
+			"name": "Nidoran F"
+		},
+		"Nidoran M": {
+			"name": "Nidoran M"
+		},
+		"Nidorina": {
+			"name": "Nidorina"
+		},
+		"Nidorino": {
+			"name": "Nidorino"
+		},
+		"Nihilego": {
+			"name": "Nihilego"
+		},
+		"Nincada": {
+			"name": "Nincada"
+		},
+		"Ninetales": {
+			"name": "Ninetales"
+		},
+		"Ninetales (Alolan Form)": {
+			"name": "Ninetales (Alolan Form)"
+		},
+		"Ninjask": {
+			"name": "Ninjask"
+		},
+		"Noctowl": {
+			"name": "Noctowl"
+		},
+		"Noibat": {
+			"name": "Noibat"
+		},
+		"Noivern": {
+			"name": "Noivern"
+		},
+		"Nosepass": {
+			"name": "Nosepass"
+		},
+		"Numel": {
+			"name": "Numel"
+		},
+		"Nuzleaf": {
+			"name": "Nuzleaf"
+		},
+		"Obstagoon": {
+			"name": "Obstagoon"
+		},
+		"Octillery": {
+			"name": "Octillery"
+		},
+		"Oddish": {
+			"name": "Oddish"
+		},
+		"Omanyte": {
+			"name": "Omanyte"
+		},
+		"Omastar": {
+			"name": "Omastar"
+		},
+		"Onix": {
+			"name": "Onix"
+		},
+		"Oranguru": {
+			"name": "Oranguru"
+		},
+		"Orbeetle": {
+			"name": "Orbeetle"
+		},
+		"Oricorio (Baile Form)": {
+			"name": "Oricorio (Baile Form)"
+		},
+		"Oricorio (Pa'u Form)": {
+			"name": "Oricorio (Pa'u Form)"
+		},
+		"Oricorio (Pom-pom Form)": {
+			"name": "Oricorio (Pom-pom Form)"
+		},
+		"Oricorio (Sensu Form)": {
+			"name": "Oricorio (Sensu Form)"
+		},
+		"Oshawott": {
+			"name": "Oshawott"
+		},
+		"Pachirisu": {
+			"name": "Pachirisu"
+		},
+		"Palkia": {
+			"name": "Palkia"
+		},
+		"Palossand": {
+			"name": "Palossand"
+		},
+		"Palpitoad": {
+			"name": "Palpitoad"
+		},
+		"Pancham": {
+			"name": "Pancham"
+		},
+		"Pangoro": {
+			"name": "Pangoro"
+		},
+		"Panpour": {
+			"name": "Panpour"
+		},
+		"Pansage": {
+			"name": "Pansage"
+		},
+		"Pansear": {
+			"name": "Pansear"
+		},
+		"Paras": {
+			"name": "Paras"
+		},
+		"Parasect": {
+			"name": "Parasect"
+		},
+		"Passimian": {
+			"name": "Passimian"
+		},
+		"Patrat": {
+			"name": "Patrat"
+		},
+		"Pawniard": {
+			"name": "Pawniard"
+		},
+		"Pelipper": {
+			"name": "Pelipper"
+		},
+		"Perrserker": {
+			"name": "Perrserker"
+		},
+		"Persian": {
+			"name": "Persian"
+		},
+		"Persian (Alolan Form)": {
+			"name": "Persian (Alolan Form)"
+		},
+		"Petilil": {
+			"name": "Petilil"
+		},
+		"Phanpy": {
+			"name": "Phanpy"
+		},
+		"Phantump": {
+			"name": "Phantump"
+		},
+		"Pheromosa": {
+			"name": "Pheromosa"
+		},
+		"Phione": {
+			"name": "Phione"
+		},
+		"Pichu": {
+			"name": "Pichu"
+		},
+		"Pidgeot": {
+			"name": "Pidgeot"
+		},
+		"Pidgeot (Mega Form)": {
+			"name": "Pidgeot (Mega Form)"
+		},
+		"Pidgeotto": {
+			"name": "Pidgeotto"
+		},
+		"Pidgey": {
+			"name": "Pidgey"
+		},
+		"Pidove": {
+			"name": "Pidove"
+		},
+		"Pignite": {
+			"name": "Pignite"
+		},
+		"Pikachu": {
+			"name": "Pikachu"
+		},
+		"Pikipek": {
+			"name": "Pikipek"
+		},
+		"Piloswine": {
+			"name": "Piloswine"
+		},
+		"Pincurchin": {
+			"name": "Pincurchin"
+		},
+		"Pineco": {
+			"name": "Pineco"
+		},
+		"Pinsir": {
+			"name": "Pinsir"
+		},
+		"Pinsir (Mega Form)": {
+			"name": "Pinsir (Mega Form)"
+		},
+		"Piplup": {
+			"name": "Piplup"
+		},
+		"Plusle": {
+			"name": "Plusle"
+		},
+		"Poipole": {
+			"name": "Poipole"
+		},
+		"Politoed": {
+			"name": "Politoed"
+		},
+		"Poliwag": {
+			"name": "Poliwag"
+		},
+		"Poliwhirl": {
+			"name": "Poliwhirl"
+		},
+		"Poliwrath": {
+			"name": "Poliwrath"
+		},
+		"Polteageist": {
+			"name": "Polteageist"
+		},
+		"Ponyta": {
+			"name": "Ponyta"
+		},
+		"Ponyta (Galarian Form)": {
+			"name": "Ponyta de Galar"
+		},
+		"Poochyena": {
+			"name": "Poochyena"
+		},
+		"Popplio": {
+			"name": "Popplio"
+		},
+		"Porygon": {
+			"name": "Porygon"
+		},
+		"Porygon-Z": {
+			"name": "Porygon-Z"
+		},
+		"Porygon2": {
+			"name": "Porygon2"
+		},
+		"Primarina": {
+			"name": "Primarina"
+		},
+		"Primeape": {
+			"name": "Primeape"
+		},
+		"Prinplup": {
+			"name": "Prinplup"
+		},
+		"Probopass": {
+			"name": "Probopass"
+		},
+		"Psyduck": {
+			"name": "Psyduck"
+		},
+		"Pumpkaboo": {
+			"name": "Pumpkaboo"
+		},
+		"Pupitar": {
+			"name": "Pupitar"
+		},
+		"Purrloin": {
+			"name": "Purrloin"
+		},
+		"Purugly": {
+			"name": "Purugly"
+		},
+		"Pyroar": {
+			"name": "Pyroar"
+		},
+		"Pyukumuku": {
+			"name": "Pyukumuku"
+		},
+		"Quagsire": {
+			"name": "Quagsire"
+		},
+		"Quilava": {
+			"name": "Quilava"
+		},
+		"Quilladin": {
+			"name": "Quilladin"
+		},
+		"Qwilfish": {
+			"name": "Qwilfish"
+		},
+		"Raboot": {
+			"name": "Raboot"
+		},
+		"Raichu": {
+			"name": "Raichu"
+		},
+		"Raichu (Alolan Form)": {
+			"name": "Raichu (Alolan Form)"
+		},
+		"Raikou": {
+			"name": "Raikou"
+		},
+		"Ralts": {
+			"name": "Ralts"
+		},
+		"Rampardos": {
+			"name": "Rampardos"
+		},
+		"Rapidash": {
+			"name": "Rapidash"
+		},
+		"Rapidash (Galarian Form)": {
+			"name": "Rapidash de Galar"
+		},
+		"Raticate": {
+			"name": "Raticate"
+		},
+		"Raticate (Alolan Form)": {
+			"name": "Raticate (Alolan Form)"
+		},
+		"Rattata": {
+			"name": "Rattata"
+		},
+		"Rattata (Alolan Form)": {
+			"name": "Rattata (Alolan Form)"
+		},
+		"Rayquaza": {
+			"name": "Rayquaza"
+		},
+		"Rayquaza (Mega Form)": {
+			"name": "Rayquaza (Mega Form)"
+		},
+		"Regice": {
+			"name": "Regice"
+		},
+		"Regigigas": {
+			"name": "Regigigas"
+		},
+		"Regirock": {
+			"name": "Regirock"
+		},
+		"Registeel": {
+			"name": "Registeel"
+		},
+		"Relicanth": {
+			"name": "Relicanth"
+		},
+		"Remoraid": {
+			"name": "Remoraid"
+		},
+		"Reshiram": {
+			"name": "Reshiram"
+		},
+		"Reuniclus": {
+			"name": "Reuniclus"
+		},
+		"Rhydon": {
+			"name": "Rhydon"
+		},
+		"Rhyhorn": {
+			"name": "Rhyhorn"
+		},
+		"Rhyperior": {
+			"name": "Rhyperior"
+		},
+		"Ribombee": {
+			"name": "Ribombee"
+		},
+		"Rillaboom": {
+			"name": "Rillaboom"
+		},
+		"Riolu": {
+			"name": "Riolu"
+		},
+		"Rockruff": {
+			"name": "Rockruff"
+		},
+		"Roggenrola": {
+			"name": "Roggenrola"
+		},
+		"Rolycoly": {
+			"name": "Rolycoly"
+		},
+		"Rookidee": {
+			"name": "Rookidee"
+		},
+		"Roselia": {
+			"name": "Roselia"
+		},
+		"Roserade": {
+			"name": "Roserade"
+		},
+		"Rotom": {
+			"name": "Rotom"
+		},
+		"Rotom (Dex Form)": {
+			"name": "Rotom (Dex Form)"
+		},
+		"Rotom (Fan Form)": {
+			"name": "Rotom (Fan Form)"
+		},
+		"Rotom (Frost Form)": {
+			"name": "Rotom (Frost Form)"
+		},
+		"Rotom (Heat Form)": {
+			"name": "Rotom (Heat Form)"
+		},
+		"Rotom (Mow Form)": {
+			"name": "Rotom (Mow Form)"
+		},
+		"Rotom (Wash Form)": {
+			"name": "Rotom (Wash Form)"
+		},
+		"Rowlet": {
+			"name": "Rowlet"
+		},
+		"Rufflet": {
+			"name": "Rufflet"
+		},
+		"Runerigus": {
+			"name": "Runerigus"
+		},
+		"Sableye": {
+			"name": "Sableye"
+		},
+		"Sableye (Mega Form)": {
+			"name": "Sableye (Mega Form)"
+		},
+		"Salamence": {
+			"name": "Salamence"
+		},
+		"Salamence (Mega Form)": {
+			"name": "Salamence (Mega Form)"
+		},
+		"Salandit": {
+			"name": "Salandit"
+		},
+		"Salazzle": {
+			"name": "Salazzle"
+		},
+		"Samurott": {
+			"name": "Samurott"
+		},
+		"Sandaconda": {
+			"name": "Sandaconda"
+		},
+		"Sandile": {
+			"name": "Sandile"
+		},
+		"Sandshrew": {
+			"name": "Sandshrew"
+		},
+		"Sandshrew (Alolan Form)": {
+			"name": "Sandshrew (Alolan Form)"
+		},
+		"Sandslash": {
+			"name": "Sandslash"
+		},
+		"Sandslash (Alolan Form)": {
+			"name": "Sandslash (Alolan Form)"
+		},
+		"Sandygast": {
+			"name": "Sandygast"
+		},
+		"Sawk": {
+			"name": "Sawk"
+		},
+		"Sawsbuck": {
+			"name": "Sawsbuck"
+		},
+		"Scatterbug": {
+			"name": "Scatterbug"
+		},
+		"Sceptile": {
+			"name": "Sceptile"
+		},
+		"Sceptile (Mega Form)": {
+			"name": "Sceptile (Mega Form)"
+		},
+		"Scizor": {
+			"name": "Scizor"
+		},
+		"Scizor (Mega Form)": {
+			"name": "Scizor (Mega Form)"
+		},
+		"Scolipede": {
+			"name": "Scolipede"
+		},
+		"Scorbunny": {
+			"name": "Scorbunny"
+		},
+		"Scrafty": {
+			"name": "Scrafty"
+		},
+		"Scraggy": {
+			"name": "Scraggy"
+		},
+		"Scyther": {
+			"name": "Scyther"
+		},
+		"Seadra": {
+			"name": "Seadra"
+		},
+		"Seaking": {
+			"name": "Seaking"
+		},
+		"Sealeo": {
+			"name": "Sealeo"
+		},
+		"Seedot": {
+			"name": "Seedot"
+		},
+		"Seel": {
+			"name": "Seel"
+		},
+		"Seismitoad": {
+			"name": "Seismitoad"
+		},
+		"Sentret": {
+			"name": "Sentret"
+		},
+		"Serperior": {
+			"name": "Serperior"
+		},
+		"Servine": {
+			"name": "Servine"
+		},
+		"Seviper": {
+			"name": "Seviper"
+		},
+		"Sewaddle": {
+			"name": "Sewaddle"
+		},
+		"Sharpedo": {
+			"name": "Sharpedo"
+		},
+		"Sharpedo (Mega Form)": {
+			"name": "Sharpedo (Mega Form)"
+		},
+		"Shaymin": {
+			"name": "Shaymin"
+		},
+		"Shaymin (Sky Form)": {
+			"name": "Shaymin (Sky Form)"
+		},
+		"Shedinja": {
+			"name": "Shedinja"
+		},
+		"Shelgon": {
+			"name": "Shelgon"
+		},
+		"Shellder": {
+			"name": "Shellder"
+		},
+		"Shellos": {
+			"name": "Shellos"
+		},
+		"Shelmet": {
+			"name": "Shelmet"
+		},
+		"Shieldon": {
+			"name": "Shieldon"
+		},
+		"Shiftry": {
+			"name": "Shiftry"
+		},
+		"Shiinotic": {
+			"name": "Shiinotic"
+		},
+		"Shinx": {
+			"name": "Shinx"
+		},
+		"Shroomish": {
+			"name": "Shroomish"
+		},
+		"Shuckle": {
+			"name": "Shuckle"
+		},
+		"Shuppet": {
+			"name": "Shuppet"
+		},
+		"Sigilyph": {
+			"name": "Sigilyph"
+		},
+		"Silcoon": {
+			"name": "Silcoon"
+		},
+		"Silicobra": {
+			"name": "Silicobra"
+		},
+		"Silvally": {
+			"name": "Silvally"
+		},
+		"Simipour": {
+			"name": "Simipour"
+		},
+		"Simisage": {
+			"name": "Simisage"
+		},
+		"Simisear": {
+			"name": "Simisear"
+		},
+		"Sinistea": {
+			"name": "Sinistea"
+		},
+		"Sirfetch'd": {
+			"name": "Sirfetch'd"
+		},
+		"Sizzlipede": {
+			"name": "Sizzlipede"
+		},
+		"Skarmory": {
+			"name": "Skarmory"
+		},
+		"Skiddo": {
+			"name": "Skiddo"
+		},
+		"Skiploom": {
+			"name": "Skiploom"
+		},
+		"Skitty": {
+			"name": "Skitty"
+		},
+		"Skorupi": {
+			"name": "Skorupi"
+		},
+		"Skrelp": {
+			"name": "Skrelp"
+		},
+		"Skuntank": {
+			"name": "Skuntank"
+		},
+		"Skwovet": {
+			"name": "Skwovet"
+		},
+		"Slaking": {
+			"name": "Slaking"
+		},
+		"Slakoth": {
+			"name": "Slakoth"
+		},
+		"Sliggoo": {
+			"name": "Sliggoo"
+		},
+		"Slowbro": {
+			"name": "Slowbro"
+		},
+		"Slowbro (Galarian Form)": {
+			"name": "Slowbro de Galar"
+		},
+		"Slowbro (Mega Form)": {
+			"name": "Slowbro (Mega Form)"
+		},
+		"Slowking": {
+			"name": "Slowking"
+		},
+		"Slowking (Galarian Form)": {
+			"name": "Slowking de Galar"
+		},
+		"Slowpoke": {
+			"name": "Slowpoke"
+		},
+		"Slowpoke (Galarian Form)": {
+			"name": "Slowpoke de Galar"
+		},
+		"Slugma": {
+			"name": "Slugma"
+		},
+		"Slurpuff": {
+			"name": "Slurpuff"
+		},
+		"Smeargle": {
+			"name": "Smeargle"
+		},
+		"Smoochum": {
+			"name": "Smoochum"
+		},
+		"Sneasel": {
+			"name": "Sneasel"
+		},
+		"Snivy": {
+			"name": "Snivy"
+		},
+		"Snom": {
+			"name": "Snom"
+		},
+		"Snorlax": {
+			"name": "Snorlax"
+		},
+		"Snorunt": {
+			"name": "Snorunt"
+		},
+		"Snover": {
+			"name": "Snover"
+		},
+		"Snubbull": {
+			"name": "Snubbull"
+		},
+		"Sobble": {
+			"name": "Sobble"
+		},
+		"Solgaleo": {
+			"name": "Solgaleo"
+		},
+		"Solosis": {
+			"name": "Solosis"
+		},
+		"Solrock": {
+			"name": "Solrock"
+		},
+		"Spearow": {
+			"name": "Spearow"
+		},
+		"Spewpa": {
+			"name": "Spewpa"
+		},
+		"Spheal": {
+			"name": "Spheal"
+		},
+		"Spinarak": {
+			"name": "Spinarak"
+		},
+		"Spinda": {
+			"name": "Spinda"
+		},
+		"Spiritomb": {
+			"name": "Spiritomb"
+		},
+		"Spoink": {
+			"name": "Spoink"
+		},
+		"Spritzee": {
+			"name": "Spritzee"
+		},
+		"Squirtle": {
+			"name": "Squirtle"
+		},
+		"Stakataka": {
+			"name": "Stakataka"
+		},
+		"Stantler": {
+			"name": "Stantler"
+		},
+		"Staraptor": {
+			"name": "Staraptor"
+		},
+		"Staravia": {
+			"name": "Staravia"
+		},
+		"Starly": {
+			"name": "Starly"
+		},
+		"Starmie": {
+			"name": "Starmie"
+		},
+		"Staryu": {
+			"name": "Staryu"
+		},
+		"Steelix": {
+			"name": "Steelix"
+		},
+		"Steelix (Mega Form)": {
+			"name": "Steelix (Mega Form)"
+		},
+		"Steenee": {
+			"name": "Steenee"
+		},
+		"Stonjourner": {
+			"name": "Stonjourner"
+		},
+		"Stoutland": {
+			"name": "Stoutland"
+		},
+		"Stufful": {
+			"name": "Stufful"
+		},
+		"Stunfisk": {
+			"name": "Stunfisk"
+		},
+		"Stunfisk (Galarian Form)": {
+			"name": "Stunfisk de Galar"
+		},
+		"Stunky": {
+			"name": "Stunky"
+		},
+		"Sudowoodo": {
+			"name": "Sudowoodo"
+		},
+		"Suicune": {
+			"name": "Suicune"
+		},
+		"Sunflora": {
+			"name": "Sunflora"
+		},
+		"Sunkern": {
+			"name": "Sunkern"
+		},
+		"Surskit": {
+			"name": "Surskit"
+		},
+		"Swablu": {
+			"name": "Swablu"
+		},
+		"Swadloon": {
+			"name": "Swadloon"
+		},
+		"Swalot": {
+			"name": "Swalot"
+		},
+		"Swampert": {
+			"name": "Swampert"
+		},
+		"Swampert (Mega Form)": {
+			"name": "Swampert (Mega Form)"
+		},
+		"Swanna": {
+			"name": "Swanna"
+		},
+		"Swellow": {
+			"name": "Swellow"
+		},
+		"Swinub": {
+			"name": "Swinub"
+		},
+		"Swirlix": {
+			"name": "Swirlix"
+		},
+		"Swoobat": {
+			"name": "Swoobat"
+		},
+		"Sylveon": {
+			"name": "Sylveon"
+		},
+		"Taillow": {
+			"name": "Taillow"
+		},
+		"Talonflame": {
+			"name": "Talonflame"
+		},
+		"Tangela": {
+			"name": "Tangela"
+		},
+		"Tangrowth": {
+			"name": "Tangrowth"
+		},
+		"Tapu Bulu": {
+			"name": "Tapu Bulu"
+		},
+		"Tapu Fini": {
+			"name": "Tapu Fini"
+		},
+		"Tapu Koko": {
+			"name": "Tapu Koko"
+		},
+		"Tapu Lele": {
+			"name": "Tapu Lele"
+		},
+		"Tauros": {
+			"name": "Tauros"
+		},
+		"Teddiursa": {
+			"name": "Teddiursa"
+		},
+		"Tentacool": {
+			"name": "Tentacool"
+		},
+		"Tentacruel": {
+			"name": "Tentacruel"
+		},
+		"Tepig": {
+			"name": "Tepig"
+		},
+		"Terrakion": {
+			"name": "Terrakion"
+		},
+		"Thievul": {
+			"name": "Thievul"
+		},
+		"Throh": {
+			"name": "Throh"
+		},
+		"Thundurus": {
+			"name": "Thundurus"
+		},
+		"Thundurus (Therian Form)": {
+			"name": "Thundurus (Therian Form)"
+		},
+		"Thwackey": {
+			"name": "Thwackey"
+		},
+		"Timburr": {
+			"name": "Timburr"
+		},
+		"Tirtouga": {
+			"name": "Tirtouga"
+		},
+		"Togedemaru": {
+			"name": "Togedemaru"
+		},
+		"Togekiss": {
+			"name": "Togekiss"
+		},
+		"Togepi": {
+			"name": "Togepi"
+		},
+		"Togetic": {
+			"name": "Togetic"
+		},
+		"Torchic": {
+			"name": "Torchic"
+		},
+		"Torkoal": {
+			"name": "Torkoal"
+		},
+		"Tornadus": {
+			"name": "Tornadus"
+		},
+		"Tornadus (Therian Form)": {
+			"name": "Tornadus (Therian Form)"
+		},
+		"Torracat": {
+			"name": "Torracat"
+		},
+		"Torterra": {
+			"name": "Torterra"
+		},
+		"Totodile": {
+			"name": "Totodile"
+		},
+		"Toucannon": {
+			"name": "Toucannon"
+		},
+		"Toxapex": {
+			"name": "Toxapex"
+		},
+		"Toxel": {
+			"name": "Toxel"
+		},
+		"Toxicroak": {
+			"name": "Toxicroak"
+		},
+		"Toxtricity (Amped Form)": {
+			"name": "Toxtricity (Amped Form)"
+		},
+		"Toxtricity (Low Key Form)": {
+			"name": "Toxtricity (Low Key Form)"
+		},
+		"Tranquill": {
+			"name": "Tranquill"
+		},
+		"Trapinch": {
+			"name": "Trapinch"
+		},
+		"Treecko": {
+			"name": "Treecko"
+		},
+		"Trevenant": {
+			"name": "Trevenant"
+		},
+		"Tropius": {
+			"name": "Tropius"
+		},
+		"Trubbish": {
+			"name": "Trubbish"
+		},
+		"Trumbeak": {
+			"name": "Trumbeak"
+		},
+		"Tsareena": {
+			"name": "Tsareena"
+		},
+		"Turtonator": {
+			"name": "Turtonator"
+		},
+		"Turtwig": {
+			"name": "Turtwig"
+		},
+		"Tympole": {
+			"name": "Tympole"
+		},
+		"Tynamo": {
+			"name": "Tynamo"
+		},
+		"Type Null": {
+			"name": "Type Null"
+		},
+		"Typhlosion": {
+			"name": "Typhlosion"
+		},
+		"Tyranitar": {
+			"name": "Tyranitar"
+		},
+		"Tyranitar (Mega Form)": {
+			"name": "Tyranitar (Mega Form)"
+		},
+		"Tyrantrum": {
+			"name": "Tyrantrum"
+		},
+		"Tyrogue": {
+			"name": "Tyrogue"
+		},
+		"Tyrunt": {
+			"name": "Tyrunt"
+		},
+		"Umbreon": {
+			"name": "Umbreon"
+		},
+		"Unfezant": {
+			"name": "Unfezant"
+		},
+		"Unown": {
+			"name": "Unown"
+		},
+		"Ursaring": {
+			"name": "Ursaring"
+		},
+		"Uxie": {
+			"name": "Uxie"
+		},
+		"Vanillish": {
+			"name": "Vanillish"
+		},
+		"Vanillite": {
+			"name": "Vanillite"
+		},
+		"Vanilluxe": {
+			"name": "Vanilluxe"
+		},
+		"Vaporeon": {
+			"name": "Vaporeon"
+		},
+		"Venipede": {
+			"name": "Venipede"
+		},
+		"Venomoth": {
+			"name": "Venomoth"
+		},
+		"Venonat": {
+			"name": "Venonat"
+		},
+		"Venusaur": {
+			"name": "Venusaur"
+		},
+		"Venusaur (Mega Form)": {
+			"name": "Venusaur (Mega Form)"
+		},
+		"Vespiquen": {
+			"name": "Vespiquen"
+		},
+		"Vibrava": {
+			"name": "Vibrava"
+		},
+		"Victini": {
+			"name": "Victini"
+		},
+		"Victreebel": {
+			"name": "Victreebel"
+		},
+		"Vigoroth": {
+			"name": "Vigoroth"
+		},
+		"Vikavolt": {
+			"name": "Vikavolt"
+		},
+		"Vileplume": {
+			"name": "Vileplume"
+		},
+		"Virizion": {
+			"name": "Virizion"
+		},
+		"Vivillon": {
+			"name": "Vivillon"
+		},
+		"Volbeat": {
+			"name": "Volbeat"
+		},
+		"Volcanion": {
+			"name": "Volcanion"
+		},
+		"Volcarona": {
+			"name": "Volcarona"
+		},
+		"Voltorb": {
+			"name": "Voltorb"
+		},
+		"Vullaby": {
+			"name": "Vullaby"
+		},
+		"Vulpix": {
+			"name": "Vulpix"
+		},
+		"Vulpix (Alolan Form)": {
+			"name": "Vulpix (Alolan Form)"
+		},
+		"Wailmer": {
+			"name": "Wailmer"
+		},
+		"Wailord": {
+			"name": "Wailord"
+		},
+		"Walrein": {
+			"name": "Walrein"
+		},
+		"Wartortle": {
+			"name": "Wartortle"
+		},
+		"Watchog": {
+			"name": "Watchog"
+		},
+		"Weavile": {
+			"name": "Weavile"
+		},
+		"Weedle": {
+			"name": "Weedle"
+		},
+		"Weepinbell": {
+			"name": "Weepinbell"
+		},
+		"Weezing": {
+			"name": "Weezing"
+		},
+		"Weezing (Galarian Form)": {
+			"name": "Weezing de Galar"
+		},
+		"Whimsicott": {
+			"name": "Whimsicott"
+		},
+		"Whirlipede": {
+			"name": "Whirlipede"
+		},
+		"Whiscash": {
+			"name": "Whiscash"
+		},
+		"Whismur": {
+			"name": "Whismur"
+		},
+		"Wigglytuff": {
+			"name": "Wigglytuff"
+		},
+		"Wimpod": {
+			"name": "Wimpod"
+		},
+		"Wingull": {
+			"name": "Wingull"
+		},
+		"Wishiwashi": {
+			"name": "Wishiwashi"
+		},
+		"Wishiwashi (Swarm Form)": {
+			"name": "Wishiwashi (Swarm Form)"
+		},
+		"Wobbuffet": {
+			"name": "Wobbuffet"
+		},
+		"Woobat": {
+			"name": "Woobat"
+		},
+		"Wooloo": {
+			"name": "Wooloo"
+		},
+		"Wooper": {
+			"name": "Wooper"
+		},
+		"Wormadam (Grass Form)": {
+			"name": "Wormadam (Grass Form)"
+		},
+		"Wormadam (Ground Form)": {
+			"name": "Wormadam (Ground Form)"
+		},
+		"Wormadam (Steel Form)": {
+			"name": "Wormadam (Steel Form)"
+		},
+		"Wurmple": {
+			"name": "Wurmple"
+		},
+		"Wynaut": {
+			"name": "Wynaut"
+		},
+		"Xatu": {
+			"name": "Xatu"
+		},
+		"Xerneas": {
+			"name": "Xerneas"
+		},
+		"Xurkitree": {
+			"name": "Xurkitree"
+		},
+		"Yamask": {
+			"name": "Yamask"
+		},
+		"Yamask (Galarian Form)": {
+			"name": "Yamask de Galar"
+		},
+		"Yamper": {
+			"name": "Yamper"
+		},
+		"Yanma": {
+			"name": "Yanma"
+		},
+		"Yanmega": {
+			"name": "Yanmega"
+		},
+		"Yungoos": {
+			"name": "Yungoos"
+		},
+		"Yveltal": {
+			"name": "Yveltal"
+		},
+		"Zacian": {
+			"name": "Zacian"
+		},
+		"Zacian (Crown Form)": {
+			"name": "Zacian (Crown Form)"
+		},
+		"Zamazenta": {
+			"name": "Zamazenta"
+		},
+		"Zamazenta (Crown Form)": {
+			"name": "Zamazenta (Crown Form)"
+		},
+		"Zangoose": {
+			"name": "Zangoose"
+		},
+		"Zapdos": {
+			"name": "Zapdos"
+		},
+		"Zapdos (Galarian Form)": {
+			"name": "Zapdos de Galar"
+		},
+		"Zebstrika": {
+			"name": "Zebstrika"
+		},
+		"Zekrom": {
+			"name": "Zekrom"
+		},
+		"Zeraora": {
+			"name": "Zeraora"
+		},
+		"Zigzagoon": {
+			"name": "Zigzagoon"
+		},
+		"Zigzagoon (Galarian Form)": {
+			"name": "Zigzagoon de Galar"
+		},
+		"Zoroark": {
+			"name": "Zoroark"
+		},
+		"Zorua": {
+			"name": "Zorua"
+		},
+		"Zubat": {
+			"name": "Zubat"
+		},
+		"Zweilous": {
+			"name": "Zweilous"
+		},
+		"Zygarde 10%": {
+			"name": "Zygarde 10%"
+		},
+		"Zygarde 100%": {
+			"name": "Zygarde 100%"
+		},
+		"Zygarde 50%": {
+			"name": "Zygarde 50%"
+		},
+		"Zygarde Cell": {
+			"name": "Zygarde Cell"
+		}
+	}
+}
